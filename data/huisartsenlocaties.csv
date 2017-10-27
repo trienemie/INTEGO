@@ -1,0 +1,255 @@
+nr,Praktijk,Straat,Nummer,Bus,INTEGO,Postcode,Plaatsnaam,Aantal.artsen,Latitude,Longitude,adres,Column,Column2
+1,Boydens Eric,Grote Koraalberg,12,NA,0,2000,Antwerpen,4,51.222636,4.401118,NA,,
+2,Ledegen Björn,Kasteelpleinstraat,28,NA,0,2000,Antwerpen,1,51.2103526,4.4016111,NA,,
+3,De Bruyker Bart,Keizerstraat,78,NA,0,2000,Antwerpen,1,51.2212951,4.409733,NA,,
+4,Appelen Lien,Korte Nieuwstraat,18,NA,0,2000,Antwerpen,3,51.220543,4.40363,NA,,
+5,Jakubowicz Henri,Belgiëlei,124,NA,0,2018,Antwerpen,1,51.205431,4.417003,NA,,
+6,Claessens Frank,Helenalei,35,NA,0,2018,Antwerpen,1,51.200948,4.421875,NA,,
+7,Rosenblum Martin,Mechelsesteenweg,217,NA,0,2018,Antwerpen,2,51.2026,4.412687,NA,,
+8,Greyson Walter,Robert Molsstraat,43,NA,0,2018,Antwerpen,1,51.199747,4.402702,NA,,
+9,Wijkgezondheidscentrum Zuidrand,De Bosschaertstraat,289,NA,0,2020,Antwerpen,5,51.184564,4.388681,NA,,
+10,Theerensjan,Maurits Sabbelaan,19,NA,0,2020,Antwerpen,1,51.189617,4.372739,NA,,
+11,Vanderheydengie,VII Olympiadelaan,128,NA,0,2020,Antwerpen,1,51.183396,4.383149,NA,,
+12,Béghin Josefien,De Marbaixstraat,55,NA,0,2060,Antwerpen,2,51.228663,4.43735,NA,,
+13,Dieben Willem,Meetingstraat,15,NA,0,2060,Antwerpen,1,51.222139,4.43265,NA,,
+14,Van Der Veken Wim,Schoolstraat,9,NA,0,2060,Antwerpen,1,51.225218,4.432134,NA,,
+15,Hassan Kays,Sint-Elisabethstraat,46,NA,0,2060,Antwerpen,2,51.222811,4.424825,NA,,
+16,D?aes Hugo,Van Stralenstraat,10,NA,0,2060,Antwerpen,1,51.219842,4.418746,NA,,
+17,De Ryck Ghislain,Heirbaan,133,NA,0,2070,Burcht,1,51.2000046,4.3339643,NA,,
+18,Verstraete Ilse,Polderstraat,60,NA,0,2070,Zwijndrecht,1,51.2209025,4.3328555,NA,,
+19,Bernaers Fideel,Vergauwenstraat,8,NA,0,2070,Zwijndrecht,1,51.220656,4.3259534,NA,,
+20,Dr. Hessen Vibeke,August Van De Wielelei,91,NA,0,2100,Deurne,1,51.219545,4.479568,NA,,
+21,Dr. Van Den Eynde Marc,Bisschoppenhoflaan,163,NA,0,2100,Deurne,1,51.2333578,4.4625566,NA,,
+22,Dr. Leemans Johan,Boekenberglei,191,NA,0,2100,Deurne,4,51.1974337,4.4598954,NA,,
+23,Dr. Marlier Magali,Boterlaarbaan,336,NA,0,2100,Deurne,1,51.2083459,4.4767702,NA,,
+24,Dr. Paternoster Patrick,De Grijspeerstraat,55,NA,0,2100,Deurne,1,51.226808,4.451153,NA,,
+25,Dr. Ryckebosch Philippe,Ivan Maquinaylei,12,NA,0,2100,Deurne,1,51.221007,4.483091,NA,,
+26,Dr. Kussé Jan,Lakborslei,150,NA,0,2100,Deurne,1,51.2268009,4.4546306,NA,,
+27,Dr. Joosen Raymond,Leon Stampelaan,62,NA,0,2100,Deurne,1,51.193191,4.465413,NA,,
+28,Dr. Marynen Stefan,Ruggeveldlaan,640,NA,0,2100,Deurne,1,51.22494,4.479531,NA,,
+29,Dr. De Keyser Guy,Ruggeveldlaan,757,NA,0,2100,Deurne,1,51.231294,4.478633,NA,,
+30,Dr. Renders Roger,Te Couwelaerlei,86,NA,0,2100,Deurne,3,51.223745,4.457451,NA,,
+31,Dr. De Cock Marc,Van Notenstraat,115,NA,0,2100,Deurne,2,51.198105,4.457886,NA,,
+32,Dr. Ajnaou Abderrahman,'s Herenstraat,7,NA,0,2140,Borgerhout,1,51.211862,4.434677,NA,,
+33,Dr. Lommaert Philippe,Bikschotelaan,301,NA,0,2140,Borgerhout,1,51.199076,4.450245,NA,,
+34,Dr. Dhondt Ludo,Borsbeekstraat,57-59,NA,0,2140,Borgerhout,1,51.21789,4.441513,NA,,
+35,Dr. Vanbeveren Edwin,Karel De Preterlei,118,NA,0,2140,Borgerhout,1,51.203392,4.449877,NA,,
+36,Dr. Van Mechelen Gustaaf,Georges De Grooflei,27,NA,0,2150,Borsbeek,1,51.195763,4.482814,NA,,
+37,Dr. Van Gulck Marjan,Lucien Hendrickxlei,75,NA,0,2150,Borsbeek,1,51.189651,4.487596,NA,,
+38,Dr. Cuypers Nathalie,Pieteingbaan,47,NA,0,2160,Wommelgem,1,51.1946332,4.514823,NA,,
+39,Dr. Van Vlimmeren Elke,Sint Damiaanstraat,199,NA,0,2160,Wommelgem,1,51.197843,4.516319,NA,,
+40,Van Gheem Hilde,Dokter Maurice Timmermanslaan,13,NA,0,2170,Merksem,8,51.24839,4.451619,NA,,
+41,Keusters Alizé,Groenendaallaan,105,NA,0,2170,Merksem,1,51.2425636,4.4315858,NA,,
+42,Van Noten Caroline,Groenendaallaan,105,NA,0,2170,Merksem,4,51.2425636,4.4315858,NA,,
+43,Hiba Almahdawy,Sint-Bartholomeusstraat,25,NA,0,2170,Merksem,1,51.2415862,4.4417487,NA,,
+44,Verhoeven Wim,Sint-Bartholomeusstraat,25,NA,0,2170,Merksem,2,51.2415862,4.4417487,NA,,
+45,De Schutter Kris,Terlindenhofstraat,64,NA,0,2170,Merksem,1,51.244354,4.441374,NA,,
+46,Lenaerts Patrick,Filip Williotstraat,29,1,0,2600,Berchem,1,51.188108,4.433953,NA,,
+47,Ex Robert,Fruithoflaan,4,10,0,2600,Berchem,1,51.1805803,4.4336673,NA,,
+48,Durieux Erwin,Gitschotellei,148,NA,0,2600,Berchem,1,51.2005442,4.4425029,NA,,
+49,Polak Rudy En Geerts Dirk,Gitschotellei,161,NA,0,2600,Berchem,2,51.200363,4.4441645,NA,,
+50,Umans Wouter,Sint Theresiastraat,5,NA,0,2600,Berchem,10,51.179349,4.436063,NA,,
+51,Proost Luc -,Zillebekelaan,17,NA,0,2600,Berchem,1,51.194791,4.444455,NA,,
+52,Verhulstkarel,Pastoor Bauwenslaan,51,1,0,2610,Wilrijk,1,51.17854,4.378669,NA,,
+53,Bauwens Tine,Antwerpsesteenweg,387,NA,0,2660,Hoboken,2,51.181401,4.36865,NA,,
+54,Baekelandtjan,Commandant Weynsstraat,85,NA,1,2660,Hoboken,9,51.18304,4.351198,NA,,
+55,Hartmanninge,Lelieplaats,5,NA,0,2660,Hoboken,1,51.174368,4.351431,NA,,
+56,Ronsijnivo,Louisalei,45,NA,0,2660,Hoboken,1,51.176361,4.34559,NA,,
+57,Torfsgreta,Moretusstraat,98,NA,0,2660,Hoboken,1,51.172651,4.349098,NA,,
+58,Andreakosvenetia,Schorrenlaan,4,2,0,2660,Hoboken,3,51.18388,4.34544,NA,,
+59,De Leeuwmyriam,Sint Bernardsesteenweg,659,NA,0,2660,Hoboken,2,51.174822,4.366789,NA,,
+60,Kowi Michael,Alfons Servaislei,25,NA,0,2900,Schoten,1,51.255873,4.518683,NA,,
+61,Das Isabelle,Churchilllaan,62,NA,0,2900,Schoten,4,51.250426,4.49387,NA,,
+62,Janssens Bert,Britselei,34,,0,2000,Antwerpen,2,51.2102637,4.4058072,britselei 34, 2000 antwerpen, belgium
+63,Hanegreefs Luc,Gijzelaarsstraat,23,A,0,2000,Antwerpen,3,51.2071722,4.3888465,gijzelaarsstraat 23, 2000 antwerpen, belgium
+65,Van Cleempoel Roland,Italilei,51,,0,2000,Antwerpen,1,51.2278665,4.414528,itali‰lei 51, 2000 antwerpen, belgium
+66,Van Den Broeck Lucien,Italilei,55,,0,2000,Antwerpen,3,51.2277065,4.4145442,itali‰lei 55, 2000 antwerpen, belgium
+69,Beckx Tine,Korte Klarenstraat,9,A,0,2000,Antwerpen,4,51.2191289,4.4076563,korte klarenstraat 9a, 2000 antwerpen, belgium
+71,Elviha Diana,Lange Nieuwstraat,25,,0,2000,Antwerpen,1,51.2199129,4.4071318,lange nieuwstraat 25, 2000 antwerpen, belgium
+72,Van Den Kieboom Diane,Mutsaertstraat,13,,0,2000,Antwerpen,1,51.2242371,4.4054393,mutsaardstraat 13, 2000 antwerpen, belgium
+73,Hannes Patrick,Nationalestraat,144,,0,2000,Antwerpen,1,51.2130754,4.3974566,nationalestraat 144, 2000 antwerpen, belgium
+74,Sollie Myriam,Oudaan,3,11,0,2000,Antwerpen,1,51.2161848,4.4033481,oudaan 3, 2000 antwerpen, belgium
+75,Decouttere Ruth,Oude Leeuwenrui,34,,0,2000,Antwerpen,5,51.2268106,4.4077432,oude leeuwenrui 34, 2000 antwerpen, belgium
+76,Mertens Alfons,Paardenmarkt,52,,0,2000,Antwerpen,1,51.2250289,4.4104276,paardenmarkt 52, 2000 antwerpen, belgium
+77,De Vleeschauwer Marie-laure,Paardenmarkt,87,B1,0,2000,Antwerpen,2,51.2252048,4.4114063,paardenmarkt 87, 2000 antwerpen, belgium
+78,Jacobs Tom,Steenbergstraat,21,,0,2000,Antwerpen,2,51.2147796,4.3979169,steenbergstraat 21, 2000 antwerpen, belgium
+79,Verhagen Eveline,Van Boendalestraat,13,,0,2000,Antwerpen,1,51.221595,4.4154993,van boendalestraat 13, 2000 antwerpen, belgium
+80,Wildiers Andr‹ó?,Verversrui,34,,0,2000,Antwerpen,1,51.2256435,4.4045946,verversrui 34, 2000 antwerpen, belgium
+81,Bols Henri,Volkstraat,67,,0,2000,Antwerpen,1,51.2099635,4.3948766,volkstraat 67, 2000 antwerpen, belgium
+82,Gobin Inge,Antoon Van Dijckstraat,73,,0,2018,Antwerpen,3,51.2075343,4.4166145,antoon van dyckstraat 73, 2018 antwerpen, belgium
+83,Lenders Nathalie,Balansstraat,10,,0,2018,Antwerpen,2,51.2044052,4.3956855,balansstraat 10, 2018 antwerpen, belgium
+84,Ehelberg Jacques,Belgiëlei,15,b,0,2018,Antwerpen,1,51.2083306,4.4219999,belgi‰lei 15, 2018 antwerpen, belgium
+85,Deutsch André,Belgiëlei,73,,0,2018,Antwerpen,1,51.2067983,4.4202511,belgi‰lei 73, 2018 antwerpen, belgium
+87,Guffens Jean,Boomgaardstraat,175,,0,2018,Antwerpen,1,51.200908,4.4277655,boomgaardstraat 175, 2018 antwerpen, belgium
+88,Jacobs Goedele,Bosduifstraat,32,,0,2018,Antwerpen,4,51.2087105,4.4335921,bosduifstraat 32, 2018 antwerpen, belgium
+89,Biesmans Maarten,De Moystraat,36,,0,2018,Antwerpen,1,51.2081085,4.4074538,de moystraat 36, 2018 antwerpen, belgium
+90,Van Eeckhout Geert,Fourmentstraat,7,,0,2018,Antwerpen,1,51.2060474,4.4061292,fourmentstraat 7, 2018 antwerpen, belgium
+91,Binnemans Sten,Gounodstraat,4,,0,2018,Antwerpen,2,51.2060189,4.4094152,gounodstraat 4, 2018 antwerpen, belgium
+92,Verhaert Paul,Grote Hondstraat,24,,0,2018,Antwerpen,1,51.2060565,4.4281265,grotehondstraat 24, 2018 antwerpen, belgium
+93,Stein Ernest,Haringrodestraat,66,,0,2018,Antwerpen,1,51.2016306,4.41543,haringrodestraat 66, 2018 antwerpen, belgium
+95,Mermans Dirk,Isabellalei,78,,0,2018,Antwerpen,2,51.2038435,4.4176949,isabellalei 78, 2018 antwerpen, belgium
+96,Straetemans Hilde,Jan Van Beersstraat,24,,0,2018,Antwerpen,1,51.2036969,4.3906667,jan van beersstraat 24, 2018 antwerpen, belgium
+97,Florus Wim,Korte Altaarstraat,8,,0,2018,Antwerpen,5,51.2067254,4.4317837,korte altaarstraat 8, 2018 antwerpen, belgium
+98,De Ceuninck Catherine,Lange Leemstraat,332,,0,2018,Antwerpen,3,51.2038836,4.4253148,lange leemstraat 332, 2018 antwerpen, belgium
+99,Eyckmans Liesje,Lange Leemstraat,385,,0,2018,Antwerpen,3,51.2039506,4.4257631,lange leemstraat 385, 2018 antwerpen, belgium
+100,Bulcke Nathalie,Markgravelei,51,,0,2018,Antwerpen,5,51.1999882,4.4000159,markgravelei 51, 2018 antwerpen, belgium
+101,Driscart Walter,Mechelsesteenweg,77,,0,2018,Antwerpen,1,51.2077208,4.4094014,mechelsesteenweg 77, 2018 antwerpen, belgium
+103,Van Malderen Lutgart,Milisstraat,13,,0,2018,Antwerpen,1,51.2139872,4.4265975,milisstraat 13, 2018 antwerpen, belgium
+104,Sahbaz Hava,Montignystraat,11,,0,2018,Antwerpen,1,51.2049274,4.3924163,montignystraat 11, 2018 antwerpen, belgium
+105,Buscher Karel,Oudekerkstraat,38,,0,2018,Antwerpen,1,51.199764,4.3966416,oudekerkstraat 38, 2018 antwerpen, belgium
+106,Bierinckx Liliane,Oudekerkstraat,49,,0,2018,Antwerpen,1,51.1994434,4.3963407,oudekerkstraat 49, 2018 antwerpen, belgium
+107,Van Uytvanghe Rudi,Paleisstraat,66,,0,2018,Antwerpen,1,51.2068951,4.3996945,paleisstraat 66, 2018 antwerpen, belgium
+108,De Witte Liene,Paleisstraat,104,,0,2018,Antwerpen,2,51.2060498,4.397884,paleisstraat 104, 2018 antwerpen, belgium
+109,Gutfreund Gerson,Quinten Matsijslei,43,,0,2018,Antwerpen,1,51.2117267,4.4175879,quinten matsijslei 43, 2018 antwerpen, belgium
+111,Beyers Dominique,Rudolfstraat,17,,0,2018,Antwerpen,1,51.2054027,4.4021976,rudolfstraat 17, 2018 antwerpen, belgium
+112,Hershko Zvi,Van den Nestlei,3,,0,2018,Antwerpen,1,51.2098551,4.4238977,van den nestlei 3, 2018 antwerpen, belgium
+113,Boehmemarc,Camiel Huysmanslaan,120,,0,2020,Antwerpen,1,51.1907245,4.3896365,camille huysmanslaan 120, 2020 antwerpen, belgium
+114,Haniadel,De Bosschaertstraat,112,,0,2020,Antwerpen,1,51.1877898,4.380764,de bosschaertstraat 112, 2020 antwerpen, belgium
+115,Verdonckludovic,De Bosschaertstraat,133,,0,2020,Antwerpen,1,51.1873446,4.3820484,de bosschaertstraat 133, 2020 antwerpen, belgium
+117,Broeckhoveelsa,Jan Denucestraat,239,,0,2020,Antwerpen,1,51.1955964,4.3905304,jan denuc‚straat 239, 2020 antwerpen, belgium
+118,Koeckphilip,Jan Van Rijswijcklaan,198,,0,2020,Antwerpen,1,51.1888932,4.3944518,jan van rijswijcklaan 198, 2020 antwerpen, belgium
+119,Dockxmark,Kruishofstraat,140,A,0,2020,Antwerpen,2,51.1833263,4.3935165,kruishofstraat 140, 2020 antwerpen, belgium
+121,Jacobkristin,Sint Bernardsesteenweg,346,,0,2020,Antwerpen,1,51.1893535,4.3772072,sint-bernardsesteenweg 346, 2020 antwerpen, belgium
+122,Florensluc,VII Olympiadelaan,38,,0,2020,Antwerpen,1,51.183797,4.3875859,viide-olympiadelaan 38, 2020 antwerpen, belgium
+123,Van Hooffmichel,VII Olympiadelaan,118,,0,2020,Antwerpen,1,51.1832479,4.3835622,viide-olympiadelaan 118, 2020 antwerpen, belgium
+125,Snoeksmichel,Volhardingstraat,46,,0,2020,Antwerpen,1,51.1891163,4.3917529,volhardingstraat 46, 2020 antwerpen, belgium
+126,Primspeter,Zandvlietstraat,60,,0,2020,Antwerpen,1,51.1860547,4.3862726,zandvlietstraat 60, 2020 antwerpen, belgium
+127,Degroote Willy,Bouvaertlaan,29,,0,2050,Antwerpen,2,51.2314306,4.3858565,bouvaertlaan 29, 2050 antwerpen, belgium
+128,Braekman Willy,C.Van Manderstraat,12,,0,2050,Antwerpen,1,51.2246994,4.383013,carel van manderstraat 12, 2050 antwerpen, belgium
+129,Jong Erik,Emile Verhaerenlaan,13,,0,2050,Antwerpen,1,51.2236017,4.3835121,emile verhaerenlaan 13, 2050 antwerpen, belgium
+130,Adriaenssens Annemarie,Frederik Van Eedenplein,16,4,0,2050,Antwerpen,1,51.2211464,4.3857718,frederik van eedenplein 16, 2050 antwerpen, belgium
+131,Deceulaer Frank,Gloriantlaan,26,8,0,2050,Antwerpen,2,51.2307834,4.3861012,gloriantlaan 26, 2050 antwerpen, belgium
+132,Block Myriam,Paul Van Ostayenlaan,29,,0,2050,Antwerpen,2,51.2193985,4.3839363,paul van ostaijenlaan 29, 2050 antwerpen, belgium
+133,Colaes Marc,Roemer Visscherstraat,26,,0,2050,Antwerpen,1,51.231948,4.3875503,roemer visscherstraat 26, 2050 antwerpen, belgium
+134,Raes Wim,Bisschopstraat,30,,0,2060,Antwerpen,1,51.2191132,4.4252707,bisschopstraat 30, 2060 antwerpen, belgium
+135,Van Hoey Marc,Dambruggestraat,171,,0,2060,Antwerpen,1,51.224311,4.4216453,dambruggestraat 171, 2060 antwerpen, belgium
+137,De Roeck Walter,Delinstraat,20,,0,2060,Antwerpen,1,51.2222181,4.423775,delinstraat 20, 2060 antwerpen, belgium
+138,Castermans Sonja,Erwtenstraat,10,,0,2060,Antwerpen,2,51.2265068,4.4317263,erwtenstraat 10, 2060 antwerpen, belgium
+139,Theerens Karl,Gasstraat,54,,0,2060,Antwerpen,1,51.2254031,4.4254741,gasstraat 54, 2060 antwerpen, belgium
+140,Al Hatawe Hager,Hardenvoort,3,,0,2060,Antwerpen,2,51.2320167,4.4225754,hardenvoort 3, 2060 antwerpen, belgium
+141,Yamac Ayse,Korte Stuivenbergstraat,17,,0,2060,Antwerpen,1,51.2253829,4.4295812,korte stuivenbergstraat 17, 2060 antwerpen, belgium
+143,Sweetlove Patrick,Osystraat,41,,0,2060,Antwerpen,1,51.2213412,4.4179867,osystraat 41, 2060 antwerpen, belgium
+144,Schoofs Eduard,Perenstraat,12,,0,2060,Antwerpen,1,51.2220236,4.4301446,perenstraat 12, 2060 antwerpen, belgium
+145,Van Reusel Elly,Pothoekstraat,113,,0,2060,Antwerpen,1,51.2249391,4.4365114,pothoekstraat 113, 2060 antwerpen, belgium
+146,Hendrickx Kristine,Pothoekstraat,146,,0,2060,Antwerpen,1,51.2254472,4.4367689,pothoekstraat 146, 2060 antwerpen, belgium
+147,Monprofit Pieter-jan,Regentstraat,1,,0,2060,Antwerpen,4,51.2197973,4.427501,regentstraat 1, 2060 antwerpen, belgium
+148,Hulstaert Marc,Samberstraat,67,,0,2060,Antwerpen,1,51.2342019,4.4285851,samberstraat 67, 2060 antwerpen, belgium
+150,Bouchery Ann,Sint Jobstraat,63,,0,2060,Antwerpen,4,51.2279415,4.4246152,sint-jobstraat 63, 2060 antwerpen, belgium
+153,Immanuel Jahja,Van Maerlantstraat,34,,0,2060,Antwerpen,1,51.2231504,4.4175637,van maerlantstraat 34, 2060 antwerpen, belgium
+154,Erven Greet,Van Maerlantstraat,56,,0,2060,Antwerpen,1,51.2224051,4.4178344,van maerlantstraat 56, 2060 antwerpen, belgium
+156,Tay Yaunan,Van Stralenstraat,94,,0,2060,Antwerpen,1,51.2221524,4.4196061,van stralenstraat 94, 2060 antwerpen, belgium
+157,Adam Alic,Violierstraat,4,a,0,2060,Antwerpen,1,51.2218798,4.4172682,violierstraat 4a, 2060 antwerpen, belgium
+158,Verhulst Willy,Dorpstraat,62,,0,2070,Burcht,1,51.2020543,4.3440137,dorpstraat 62, 2070 zwijndrecht, belgium
+160,Smeets Marc,Heirbaan,140,,0,2070,Burcht,2,51.199485,4.333119,heirbaan 140, 2070 zwijndrecht, belgium
+161,De Smet Walter,Jan Baptist Tassijnstraat,163,,0,2070,Zwijndrecht,1,51.218789,4.3385628,jan baptist tassynsstraat 163, 2070 zwijndrecht, belgium
+162,Hillegeer Paul,Lindenstraat,14,,0,2070,Zwijndrecht,1,51.2125349,4.3310797,lindenstraat 14, 2070 zwijndrecht, belgium
+163,De Vylder Danny,Nachtegalenlaan,19,,0,2070,Zwijndrecht,1,51.2124523,4.3275271,nachtegalenlaan 19, 2070 zwijndrecht, belgium
+165,Claus Koen,Prins Leopoldstraat,8,,0,2070,Burcht,1,51.2077876,4.3467534,prins leopoldstraat 8, 2070 zwijndrecht, belgium
+166,Van Buyten Daniël,Statiestraat,58,,0,2070,Zwijndrecht,1,51.216771,4.3282116,statiestraat 58, 2070 zwijndrecht, belgium
+168,Lescornez Antoon,Zwijndrechtsesteenweg,45,,0,2070,Burcht,1,51.2052963,4.3461881,zwijndrechtsestraat 45, 2070 zwijndrecht, belgium
+170,Dr. Mol Félix,Bisschoppenhoflaan,68,,0,2100,Deurne,1,51.2302356,4.446208,bisschoppenhoflaan 68, 2100 antwerpen, belgium
+174,Dr. Dockx Jan,Dascottelei,78,,0,2100,Deurne,1,51.2022948,4.4695685,dascottelei 78, 2100 antwerpen, belgium
+176,Dr. Heyrman Karen,Eksterlaar,13,,0,2100,Deurne,4,51.2007053,4.4653207,eksterlaar 13, 2100 antwerpen, belgium
+177,Dr. Verbert Luc,Ergo De Waellaan,5,,0,2100,Deurne,1,51.2115859,4.4564719,ergo-de waellaan 5, 2100 antwerpen, belgium
+178,Dr. Al-neama Ashraf,Frank Craeybeckxlaan,7,,0,2100,Deurne,2,51.2211998,4.4593325,frank craeybeckxlaan 7, 2100 antwerpen, belgium
+179,Dr. Michiels Barbara,Gallifortlei,59,,0,2100,Deurne,2,51.2218129,4.4622659,gallifortlei 59, 2100 antwerpen, belgium
+180,Dr. Kussé Koen,Gallifortlei,278,,0,2100,Deurne,1,51.228777,4.4677321,gallifortlei 278, 2100 antwerpen, belgium
+181,Dr. Jabarkil Anissa,Herentalsebaan,312,,0,2100,Deurne,1,51.2075257,4.4649986,herentalsebaan 312, 2100 antwerpen, belgium
+182,Dr. Bekkers Hans,Herentalsebaan,333,,0,2100,Deurne,1,51.2070104,4.4665734,herentalsebaan 333, 2100 antwerpen, belgium
+184,Dr. Van Der Meulen Linda,Karel Van Overmeirelaan,4,,0,2100,Deurne,1,51.2290209,4.4799191,karel van overmeirelaan 4, 2100 antwerpen, belgium
+186,Dr. Vandermeulen Wilfried,Lakborslei,195,,1,2100,Deurne,1,51.2252995,4.4543178,lakborslei 195, 2100 antwerpen, belgium
+188,Dr. Mortelmans Kris,Menegemlei,19,,0,2100,Deurne,1,51.2002868,4.4631452,menegemlei 19, 2100 antwerpen, belgium
+189,Dr. Verelst Joost,Muggenberglei,16,,1,2100,Deurne,1,51.208696,4.4569646,muggenberglei 16, 2100 antwerpen, belgium
+190,Dr. Borkiewicz Agnieszka,Muggenberglei,278,,0,2100,Deurne,4,51.2017438,4.4606715,muggenberglei 278, 2100 antwerpen, belgium
+192,Dr. Janvier Peter,Ruggeveldlaan,755,,0,2100,Deurne,1,51.2311751,4.4786518,ruggeveldlaan 755, 2100 antwerpen, belgium
+194,Dr. Ceurvelts Patrick,Sint Rochusstraat,166,,0,2100,Deurne,1,51.2026281,4.4641206,sint-rochusstraat 166, 2100 antwerpen, belgium
+195,Dr. Palet Christine,Sint-Rochusstraat,42,,0,2100,Deurne,1,51.2062494,4.4648066,sint-rochusstraat 42, 2100 antwerpen, belgium
+196,Dr. Kerré Jozef,Sint-Rochusstraat,223,,0,2100,Deurne,2,51.2009522,4.4653516,sint-rochusstraat 223, 2100 antwerpen, belgium
+197,Dr. Van Duppen Dirk,Sint-Rochusstraat,57-59,,1,2100,Deurne,9,51.2056288,4.464763,sint-rochusstraat 57, 2100 antwerpen, belgium
+198,Dr. Verbruggen Gert,Suzanne Spanhovenstraat,1,,0,2100,Deurne,2,51.2306105,4.4596287,suzanne spanhovenstraat 1, 2100 antwerpen, belgium
+200,Dr. De Nijs Dirk,Thibautstraat,77,,0,2100,Deurne,3,51.2045788,4.4539878,thibautstraat 77, 2100 antwerpen, belgium
+201,Dr. Stevens Elke,Turnhoutsebaan,285,,0,2100,Deurne,2,51.2200556,4.4689685,turnhoutsebaan 285, 2100 antwerpen, belgium
+202,Dr. Scheers Karen,Van Erstenstraat,52,,0,2100,Deurne,2,51.2048815,4.4532143,van erstenstraat 52, 2100 antwerpen, belgium
+203,Dr. Andries Peter,Van Lissumstraat,21,,0,2100,Deurne,1,51.2083387,4.4562099,van lissumstraat 21, 2100 antwerpen, belgium
+205,Dr. Elst Chantal,Venneborglaan,202,,0,2100,Deurne,3,51.2254486,4.4785558,venneborglaan 202, 2100 antwerpen, belgium
+206,Dr. Van Engelen Patrick,Venneborglaan,202,,0,2100,Deurne,1,51.2254486,4.4785558,venneborglaan 202, 2100 antwerpen, belgium
+208,Dr. Bao Shihao,Arthur Matthyslaan,41,,0,2140,Borgerhout,1,51.2057331,4.4503576,arthur matthyslaan 41, 2140 antwerpen, belgium
+209,Dr. Luyten Jan,Berchemlei,217,,0,2140,Borgerhout,1,51.2029121,4.4453247,berchemlei 217, 2140 antwerpen, belgium
+212,Dr. Vleugels Werner,Collegelaan,151,,1,2140,Borgerhout,1,51.2134862,4.4568721,collegelaan 151, 2140 antwerpen, belgium
+213,Dr. Lievens Dirk,Dodoensstraat,24,,0,2140,Borgerhout,2,51.215973,4.4274676,dodoensstraat 24, 2018 antwerpen, belgium
+214,Dr. Arnouts Thierry,Eliaertsstraat,15,,0,2140,Borgerhout,7,51.2144711,4.4339955,eliaertsstraat 15, 2140 antwerpen, belgium
+215,Dr. Boedt Lieven,Eliaertsstraat,25,,0,2140,Borgerhout,1,51.2141808,4.4338603,eliaertsstraat 25, 2140 antwerpen, belgium
+216,Dr. Bruyninckx Bob,Griffier Schobbenslaan,56,,0,2140,Borgerhout,1,51.2144305,4.4562021,griffier schobbenslaan 56, 2140 antwerpen, belgium
+217,Dr. Bernagie Joke,Guldensporenstraat,84,,1,2140,Borgerhout,5,51.2205682,4.4432947,guldensporenstraat 84, 2140 antwerpen, belgium
+219,Dr. Capiau Michel,Karel Geertsstraat,40,,0,2140,Borgerhout,1,51.2173645,4.4439155,karel geertsstraat 40, 2140 antwerpen, belgium
+220,Dr. De Loecker Yves,Laar,73,,0,2140,Borgerhout,1,51.2157115,4.4324836,laar 73, 2140 antwerpen, belgium
+221,Dr. Cools Ludwig,Morckhovenlei,80,,0,2140,Borgerhout,1,51.2124629,4.4565162,morckhovenlei 80, 2140 antwerpen, belgium
+222,Dr. Baeten Paul,Spillemansstraat,4,,0,2140,Borgerhout,1,51.2006709,4.4476382,spillemansstraat 4, 2140 antwerpen, belgium
+223,Dr. Timmermans Luc,Stenenbrug,152,,0,2140,Borgerhout,1,51.2108755,4.4515502,stenenbrug 152, 2140 antwerpen, belgium
+224,Dr. Elarbi Zouhair,Turnhoutsebaan,345,,0,2140,Borgerhout,2,51.2143255,4.4420914,turnhoutsebaan 345, 2140 antwerpen, belgium
+225,Dr. Toma Basil,Turnhoutsebaan,355,,0,2140,Borgerhout,1,51.214427,4.4424101,turnhoutsebaan 355, 2140 antwerpen, belgium
+226,Dr. Mortelmans Toon,Akkerdonckstraat,25,,0,2150,Borsbeek,1,51.1929752,4.4899974,akkerdonckstraat 25, 2150 borsbeek, belgium
+229,Dr. Couillier Luc,Singel,98,,0,2150,Borsbeek,2,51.2000367,4.4876639,singel 98, 2150 borsbeek, belgium
+230,Dr. Michielsen Guido,Herentalsebaan,25,,0,2160,Wommelgem,1,51.2033312,4.4832864,herentalsebaan 25, 2160 wommelgem, belgium
+231,Dr. Benoy Ellen,Herentalsebaan,550,B2,0,2160,Wommelgem,1,51.1971861,4.5144529,herentalsebaan 550, 2160 wommelgem, belgium
+232,Dr. De Saedeleer Johan,Kastanjelaan,11,,0,2160,Wommelgem,1,51.2051734,4.5314835,kastanjelaan 11, 2160 wommelgem, belgium
+235,Dr. Roland Luc,Sint-Damiaanstraat,15,,0,2160,Wommelgem,1,51.2025311,4.5224696,sint-damiaanstraat 15, 2160 wommelgem, belgium
+236,Dr. Van De Put Chris,Terhagenlaan,20,,0,2160,Wommelgem,1,51.2006769,4.5298059,terhagelaan 20, 2160 wommelgem, belgium
+237,Dr. Van Doninck Yves,Ternesselei,98,,0,2160,Wommelgem,1,51.2071305,4.5118766,ternesselei 98, 2160 wommelgem, belgium
+238,Dr. Peenen Luc,Van Strydoncklaat,8,,0,2160,Wommelgem,3,51.2039365,4.4840731,van strydonklaan 8, 2160 wommelgem, belgium
+239,Dr. De Winter Kristina,Volkaertslei,8,,0,2160,Wommelgem,1,51.2062275,4.4894097,volkaertslei 8, 2160 wommelgem, belgium
+240,Dr. D'halleweyn Koen,Welkomstraat,76,,0,2160,Wommelgem,1,51.2005342,4.5250224,welkomstraat 76, 2160 wommelgem, belgium
+241,Willekens Eric,Bredabaan,281,,0,2170,Merksem,1,51.2405494,4.4387013,bredabaan 281, 2170 antwerpen, belgium
+242,Verbergt Walter,Catershoflaan,2,,0,2170,Merksem,1,51.2518619,4.4486613,catershoflaan 2, 2170 antwerpen, belgium
+243,Verreth Vera,Distelhoek,7,,0,2170,Merksem,1,51.2546477,4.4341241,distelhoek 7, 2170 antwerpen, belgium
+247,Van Immerseel Chris,Gudrunlaan,20,,0,2170,Merksem,1,51.2460596,4.4392689,gudrunlaan 20, 2170 antwerpen, belgium
+248,Cook Melanie,Kuipersstraat,13,,0,2170,Merksem,2,51.2504256,4.4967001,kuipersstraat 13, 2900 schoten, belgium
+249,De Vriendt Luc,Kwadeveldenplein,6,,0,2170,Merksem,1,51.2588291,4.4412919,kwadeveldenplein 6, 2170 antwerpen, belgium
+250,Cools Sandra,Laarsebaan,322,,0,2170,Merksem,1,51.2561688,4.4383441,laarsebaan 322, 2170 antwerpen, belgium
+251,Vandenbosche Peter,Laarsebaan,322,,0,2170,Merksem,3,51.2561688,4.4383441,laarsebaan 322, 2170 antwerpen, belgium
+252,Goris Jozef,Maantjessteenweg,7,,0,2170,Merksem,2,51.2549599,4.4462082,maantjessteenweg 7, 2170 antwerpen, belgium
+253,Verheyen Nina,Maantjessteenweg,218,,0,2170,Merksem,5,51.2547471,4.4360862,maantjessteenweg 218, 2170 antwerpen, belgium
+254,Holgrem Marc,Nieuwdreef,166,,1,2170,Merksem,1,51.2492961,4.4378274,nieuwdreef 166, 2170 antwerpen, belgium
+255,Wils Koenraad,Nieuwdreef,186,,0,2170,Merksem,1,51.2498806,4.437381,nieuwdreef 186, 2170 antwerpen, belgium
+256,Arts Eric,Ringlaan,186,,0,2170,Merksem,1,51.2544248,4.4492767,ringlaan 186, 2170 antwerpen, belgium
+260,Vermuyten Ignace,Berthoutstraat,66,,0,2600,Berchem,1,51.1979354,4.4234775,berthoutstraat 66, 2600 antwerpen, belgium
+261,Mees Catharina,Binnenplein,2,,0,2600,Berchem,1,51.190443,4.4424432,binnenplein 2, 2600 antwerpen, belgium
+262,Jouret Paul,De Merodelei,18,,0,2600,Berchem,1,51.1973313,4.4112933,de merodelei 18, 2018 antwerpen, belgium
+263,Palit Yildiz,Drie Koningenstraat,140,,0,2600,Berchem,1,51.1971488,4.4230015,driekoningenstraat 140, 2600 antwerpen, belgium
+265,Lie Thiam L.P.,Frans Van Hombeeckplein,27,,0,2600,Berchem,1,51.1949089,4.4164846,frans van hombeeckplein 27, 2600 antwerpen, belgium
+269,De Roeck Marc,Jan Moorkensstraat,60,,0,2600,Berchem,1,51.1883633,4.4323618,jan moorkensstraat 60, 2600 antwerpen, belgium
+270,Palmers Koen En Peeters Koen,Jozef Balstraat,33,,0,2600,Berchem,2,51.1987736,4.4276687,jozef balstraat 33, 2600 antwerpen, belgium
+271,Mulders Olivier,Jozef Wautersstraat,18,,0,2600,Berchem,1,51.1864238,4.4266208,jozef wautersstraat 18, 2600 antwerpen, belgium
+272,Cornelissen Anthony,Lode Van Berkenlaan,130,,0,2600,Berchem,1,51.1974302,4.4429602,lodewijk van berckenlaan 130, 2600 antwerpen, belgium
+273,Velghe Kristien,Lode Van Berkenlaan,138,,0,2600,Berchem,1,51.197469,4.4433663,lodewijk van berckenlaan 138, 2600 antwerpen, belgium
+274,Van Herck Guido,Lode Van Berkenlaan,149,,0,2600,Berchem,1,51.1974065,4.4458523,lodewijk van berckenlaan 149, 2600 antwerpen, belgium
+275,Hopchet Lynn,Lodewijk de Koninckstraat,10,,0,2600,Berchem,3,51.1848211,4.4258035,lodewijk de koninckstraat 10, 2600 antwerpen, belgium
+276,Bauchant Yves,Marsstraat,26,,0,2600,Berchem,1,51.2020113,4.4410587,marsstraat 26, 2600 antwerpen, belgium
+278,Putzeys Paul,Vijfhoekstraat,12,,0,2600,Berchem,1,51.1955726,4.4132805,vijfhoekstraat 12, 2600 antwerpen, belgium
+279,Baeten Paul,Wapenstilstandlaan,31,,0,2600,Berchem,1,51.2029338,4.4420689,wapenstilstandlaan 31, 2600 antwerpen, belgium
+281,Colinjean,De Bruynlaan,70,,0,2610,Wilrijk,1,51.1830943,4.3771424,de bruynlaan 70, 2610 antwerpen, belgium
+282,Van Den Eeckhout Guido,Gebroeders De Wachterstraat,18,,0,2610,Wilrijk,1,51.1765895,4.3790863,gebroeders de wachterstraat 18, 2610 antwerpen, belgium
+283,Baetencaroline,Jules Moretuslei,158,,0,2610,Wilrijk,3,51.1717368,4.3818258,jules moretuslei 158, 2610 antwerpen, belgium
+284,Leysenpeter,Orchideënstraat,6,,0,2610,Wilrijk,1,51.1798136,4.38505,orchidee‰nstraat 6, 2610 antwerpen, belgium
+285,Marcqguy,Pastoor Bauwenslaan,24,1,0,2610,Wilrijk,1,51.1781329,4.3804217,pastoor bauwenslaan 24, 2610 antwerpen, belgium
+286,Marcelismarc,Pastoor Bauwenslaan,37,,0,2610,Wilrijk,1,51.1780909,4.3797355,pastoor bauwenslaan 37, 2610 antwerpen, belgium
+288,Sonnemanselly,Rederijkersstraat,90,,0,2610,Wilrijk,1,51.1815829,4.376275,rederijkersstraat 90, 2610 antwerpen, belgium
+290,Coopmansmarina,Berlijnstraat,2,,0,2660,Hoboken,1,51.1638855,4.3536854,berlijnstraat 2, 2660 antwerpen, belgium
+292,Roelantjan,Dr. Coenstraat,13,,0,2660,Hoboken,1,51.1766337,4.3510121,dokter coenstraat 13, 2660 antwerpen, belgium
+293,Borghijswalter,Heidestraat,245,,0,2660,Hoboken,1,51.1744567,4.3634705,heidestraat 245, 2660 antwerpen, belgium
+295,De Clerckhadewijch,Lelieplaats,15,,0,2660,Hoboken,5,51.1742228,4.3514751,lelieplaats 15, 2660 antwerpen, belgium
+297,Duchateausabine,Meerlenhoflaan,54,,0,2660,Hoboken,1,51.1724324,4.3575944,meerlenhoflaan 54, 2660 antwerpen, belgium
+301,Nevelsteenmarcel,Steynstraat,225,,0,2660,Hoboken,1,51.1825411,4.3623744,steynstraat 225, 2660 antwerpen, belgium
+302,De Cortignace,Weerstandlaan,61,,0,2660,Hoboken,1,51.1863419,4.3696019,weerstandlaan 61, 2660 antwerpen, belgium
+303,Peeters Mark,Alfons Servaislei,18,6,0,2900,Schoten,1,51.2545072,4.5169072,alfons servaislei 18, 2900 schoten, belgium
+305,Michiels Frederik,Borgeindstraat,274,,0,2900,Schoten,2,51.2457113,4.4711392,borgeindstraat 274, 2900 schoten, belgium
+307,Raeymaeckers Rudy,Deuzeldlaan,85,,0,2900,Schoten,1,51.2447189,4.4652717,deuzeldlaan 85, 2900 schoten, belgium
+308,Stockbroekx Kristiaan,Eburonenlei,1,,0,2900,Schoten,1,51.2666644,4.525542,eburonenlei 1, 2900 schoten, belgium
+309,Mellaers Marc,Eethuisstraat,15,,0,2900,Schoten,1,51.2494874,4.464615,eethuisstraat 15, 2170 schoten, belgium
+310,Wollaert Peter,Horstebaan,112,,0,2900,Schoten,1,51.2606996,4.4720405,horstebaan 112, 2900 schoten, belgium
+311,Embrechts  Guy,Jozef Hendrickxstraat,64,,0,2900,Schoten,4,51.2492558,4.4915546,jozef hendrickxstraat 64, 2900 schoten, belgium
+312,Neefs Marc,Paalstraat,154,,0,2900,Schoten,1,51.2548508,4.5036506,paalstraat 154, 2900 schoten, belgium
+313,Fierlafijn  Anne,Valkenlaan,21,,0,2900,Schoten,1,51.2450596,4.5207354,valkenlaan 21, 2900 schoten, belgium
+314,Bellon Stefan,Villerslei,2,,0,2900,Schoten,6,51.2522318,4.5077323,villerslei 2, 2900 schoten, belgium
+315,Drossaert  Paul,Vordensteinstraat,62,,0,2900,Schoten,1,51.2531755,4.4938347,vordensteinstraat 62, 2900 schoten, belgium
+316,Jacobs Danny,Wilgendaelstraat,38,,0,2900,Schoten,1,51.253902,4.4955982,wilgendaalstraat 38, 2900 schoten, belgium
