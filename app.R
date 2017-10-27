@@ -60,6 +60,7 @@ server <- function(input, output, session) {
     )
   })
   
+  
   # Use a separate observer to recreate the legend as needed.
   observe({
     #proxy <- leafletProxy("map", data = quakes)
